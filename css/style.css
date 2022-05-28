@@ -1,0 +1,28 @@
+/* body {
+    text-align: center;
+    background: linear-gradient(to right, #fff 0%,lightblue 100%);
+} */
+
+body {
+    text-align: center;
+    background: linear-gradient(to right, #fff 0%, #fff 33%, lightblue 33%, 
+    lightblue 66%, lightpink 66%, lightpink 100%);
+}
+
+h1{
+    text-align: center;
+    background-color: orange;
+    color:lightblue;
+}
+
+.cat{
+    width: 500px;
+    height: 300px;
+    object-fit: cover;
+}
+
+.dog{
+    width: 500px;
+    height: 300px;
+    object-fit: cover;
+}
